@@ -99,3 +99,4 @@ Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com).
 ## Star History 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=sharu725/online-cv&type=Date)](https://star-history.com/#sharu725/online-cv&Date)
+
