@@ -16,7 +16,7 @@ sidebar:
     email: debra.eskinazi@gmail.com
     phone: 408 205 1279
     timezone: United States/Pacific Time (PT)
-    linkedin: deskinazi
+    linkedin: debraeskinazi
     github: DEskinazi
 #    pdf: 
 
@@ -147,6 +147,9 @@ projects:
         link: "https://api-docs.treasuredata.com"
         tagline: "Identified a need for improved API documentation, built a business case, gathered metrics, got stakeholder buy-in, and launched the first iteration 18 months later."
 
+      - title: LLM/Gen AI
+        link: 
+        tagline: "GenAI for predictive modeling using RAG to enhance LLMs, offering efficient process automation with personalization and feedback analysis via a virtual assistant."
 oss:
     title: Strengths & Competencies
     intro: >
