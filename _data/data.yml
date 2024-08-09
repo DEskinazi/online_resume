@@ -159,25 +159,25 @@ skills:
 
     toolset:
       - name: Jira & Confluence
-        level: 98%
+        level: 90%
 
       - name: Linux
-        level: 75%
+        level: 45%
 
       - name: Markdown
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 80%
-
-      - name: Git
         level: 85%
 
+      - name: HTML5 & CSS
+        level: 65%
+
+      - name: Git
+        level: 75%
+
       - name: Python
-        level: 60%
+        level: 35%
 
       - name: C++
-        level: 60%  
+        level: 35%  
 
     summary: Additional Tools - ClickHelp, Docker, Figma, JavaScript, JSON, OpenAPI, Redocly, Regex, SQL, Sublime Text, VSCode, Zapier, Whatever you've got!    
 
