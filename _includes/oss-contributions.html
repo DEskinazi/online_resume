@@ -4,16 +4,15 @@
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-box-open fa-stack-1x fa-inverse"></i>
+      <i class="fas fa-bullhorn fa-stack-1x fa-inverse"></i>
     </span>
     {{ oss.title }}
   </h2>
 
   {% if oss.intro %}
   <div class="intro">
-    <p>{{ oss.intro }}</p>
-  </div>
-  <!--//intro-->
+    {{ oss.intro | markdownify }}
+  </div><!--//intro-->
   {% endif %}
 
   {% for contribution in oss.contributions %}

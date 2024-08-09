@@ -8,27 +8,17 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Debra Eskinazi Stockdale
+    tagline: Experienced Technical Writer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+        # Sidebar links
+    email: debra.eskinazi@gmail.com
+    phone: 408 205 1279
+    timezone: United States/Pacific Time (PT)
+    linkedin: deskinazi
+    github: DEskinazi
+#    pdf: 
 
     languages:
       title: Languages
@@ -36,230 +26,158 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
-
         - idiom: Spanish
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Beekeeping
           link:
 
-        - item: Snowboarding
+        - item: Gardening
           link:
 
         - item: Cooking
           link:
 
 career-profile:
-    title: Career Profile
+    title: Summary Statement
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Experienced writer with over 10 years of expertise leading content strategies for cloud-based database and SaaS products. Transforms complex technical concepts into user-friendly content that drives product adoption and user satisfaction. Fosters collaboration with engineering, design, and product teams, ensuring high-quality, strategically-aligned documentation.
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: BA in Political Science
+        university: California State University, San Jose
+        time: 
+          <br>
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Emphasis on International Relations. Minor: Comparative Religions
+
 
 experiences:
-    title: Experiences
+    title: Work Experience
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      
+      - role: Senior Technical Writer
+        time: September 2019 - June 2024
+        company: Treasure Data, Mountain View, CA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          
+            - Developed content, architecture, and visualizations for UX, API, & SDK documentation for playbooks, LLMs, machine learning, workflows, and governance, with an emphasis on trust and security.
+            - Worked closely with UX, QA, BE, FE, Marketing, PMs, and Support to craft high-quality user experiences across multiple product touchpoints, influencing product decisions from kick-off to launch.
+            - Pioneered Treasure Data's first developer documentation portal, accelerating implementation and saving $500k annually by improving alignment time between FE and BE teams.
+            - Established Jira Service Desk for Docs, reducing ticket resolution from months or weeks to fewer than 36 hours, setting standards for documentation efficiency.
+            - Directed monthly release note process, increasing operational efficiency and enabling stakeholders to focus on innovation and high-value activities.
+            - Partnered with Product Ops and Technical Program Management, enhancing operational workflows, dismantling silos, and fostering a collaborative environment.
+      
+      - role: Writer & Editor  
+        time: January 2014 - Present
+        company: Founder, Los Gatos, CA 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+        
+            - Competitive intelligence, content strategy, and technical documentation for B2B, B2C, and pharmaceutical clients, ensuring alignment with client objectives, timeline, and budget.
+      - role: Magazine and Features Editor  
+        time: March 2016 - March 2019
+        company: New SV Media, San Jose, CA 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        
+            - Directed the production and content strategy of two weekly lifestyle magazines and front-page centerpieces for three weekly newspapers. Delivered award-winning material.
+            - Managed writers and photographers, providing mentorship and skill enhancement through feedback and professional development.
+
+      - role: Technical Writer (Trainer) 
+        time: December 2012 - May 2016
+        company: Learning & Employee Development - SCC, San Jose, CA
+        details: |
+          
+            - Led initiatives for new software implementations for a $1 million education fund served by 16,000 employees in 27 user groups.
+            - Delivered employee training and managed learning partners.
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: Generative AI Fundamentals
+          start: 2024
+          end: 2026
+          organization: Databricks
+          credentialurl: credentials.databricks.com/0d1ddea5-2206-4be0-a99a-eaf1c329291c#gs.ct3vo9
+          credentialname: Certificate
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Foundational knowledge of generative AI, including large language models (LLMs).  
+        
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+        - name: Dispute Resolution
+          organization: Office of Human Relations, County of Santa Clara
+          credentialurl: news.santaclaracounty.gov/media-advisory/santa-clara-county-office-human-relations-offers-mediation-principles-and-practice
+          credentialname: Certificate
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Mediation principles and practice as a process to resolve conflict through effective communication, fostering understanding, and mutual respect.
+
+
+        - name: CSPL
+          organization: Behavioral Health Services, County of Santa Clara
+          credentialurl: bhsd.santaclaracounty.gov/get-prevention-services/suicide-prevention-and-crisis/crisis-and-suicide-prevention-lifeline-dial#:~:text=If%20you%20are%20interested%20in,%40hhs.sccgov.org.
+          credentialname: Certificate
+          details: |
+            Defuse and de-escalate individuals in crisis.
+    
+
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      A brief list of some of the projects was the primary author or project manager. 
+
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Delgated Groups
+        link: "https://docs.treasuredata.com/articles/#!pd/delegated-groups"
+        tagline: "This collection of documents describes how a company might leverage a regional administrator to oversee a set of users with permissions to specific policies."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Illustration - Delegated Groups
+        link: "https://docs.treasuredata.com/articles/#!pd/creating-delegated-groups"
+        tagline: "This image offers a visual description of how Delegated Grouping works."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Segment Insights Dashboard Overview
+        link: "https://docs.treasuredata.com/articles/#!pd/segment-insights-dashboard-overview"
+        tagline: "This collection of documents illustrates how a customer can use data modeling to better understand a particular segment of their target market."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: API Developer Portal
+        link: "https://api-docs.treasuredata.com"
+        tagline: "Identified a need for improved API documentation, built a business case, gathered metrics, got stakeholder buy-in, and launched the first iteration 18 months later."
 
 oss:
-    title: OSS Contributions
+    title: Strengths & Competencies
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      Analytical Skills, Change Management, Competitive Intelligence, Content Strategy, Cross-Functional Collaboration, Content Architecture, Customer Advocacy, Developer Documentation, Editing, Empathy, Generative AI, Governance, Humor, Innovation, Layout, Localization, Machine Learning, Mentorship, NLP, Onboarding Development, Policy Development, Problem Solving, Process Automation, Project Management, Release Documentation, Strategic Planning, Technical Understanding, Thought Leadership, Troubleshooting, Usability Testing, and UX Copy
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Jira & Confluence
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Linux
+        level: 75%
 
-      - name: Angular
+      - name: Markdown
         level: 98%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 80%
 
-      - name: Ruby on Rails
+      - name: Git
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Python
         level: 60%
+
+      - name: C++
+        level: 60%  
+
+    summary: Additional Tools - ClickHelp, Docker, Figma, JavaScript, JSON, OpenAPI, Redocly, Regex, SQL, Sublime Text, VSCode, Zapier, Whatever you've got!    
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
