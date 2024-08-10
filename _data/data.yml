@@ -130,7 +130,7 @@ projects:
       A brief sample of the projects was the primary author or project manager. 
 
     assignments:
-      - title: Delgated Groups
+      - title: Delegated Groups
         link: "https://docs.treasuredata.com/articles/#!pd/delegated-groups"
         tagline: "This collection of documents describes how a company might leverage a regional administrator to oversee a set of users with permissions to specific policies."
 
