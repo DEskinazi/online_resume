@@ -143,20 +143,20 @@ projects:
 
     assignments:
       - title: Delegated Groups
-        link: "https://docs.treasuredata.com/articles/#!pd/delegated-groups"
+        link: "https://docs.treasuredata.com/products/control-panel/security/users/delegated-groups"
         tagline: "This collection of documents describes how a company might leverage a regional administrator to oversee a set of users with permissions to specific policies."
 
       - title: Illustration - Delegated Groups
-        link: "https://docs.treasuredata.com/articles/#!pd/creating-delegated-groups"
+        link: "https://docs.treasuredata.com/products/control-panel/security/users/creating-delegated-groups"
         tagline: "This image offers a visual description of how Delegated Grouping works."
-
-      - title: Segment Insights Dashboard Overview
-        link: "https://docs.treasuredata.com/articles/#!pd/segment-insights-dashboard-overview"
-        tagline: "This collection of documents illustrates how a customer can use data modeling to better understand a particular segment of their target market."
 
       - title: API Developer Portal
         link: "https://api-docs.treasuredata.com"
         tagline: "Identified a need for improved API documentation, built a business case, gathered metrics, got stakeholder buy-in, and launched the first iteration 18 months later."
+
+      - title: Journey Orchestration
+        link: "https://api-docs.treasuredata.com/en/api/audience-api/tdjourneyorchestrationrestapi"
+        tagline: "This document enables users to follow and manage a customer journey, including creating and editing key decision points."
 
       - title: LLM/Gen AI
         link: 
@@ -164,7 +164,7 @@ projects:
 oss:
     title: Strengths & Competencies
     intro: >
-      Analytical Skills, Change Management, Competitive Intelligence, Content Strategy, Cross-Functional Collaboration, Content Architecture, Customer Advocacy, Developer Documentation, Editing, Empathy, Generative AI, Governance, Humor, Innovation, Layout, Localization, Machine Learning, Mentorship, NLP, Onboarding Development, Policy Development, Problem Solving, Process Automation, Project Management, Release Documentation, Strategic Planning, Technical Understanding, Thought Leadership, Troubleshooting, Usability Testing, and UX Copy
+      Advertising ​Platforms ​/​ ​AdTech, Competitive ​Intelligence, Content ​Design, Content ​Strategy, Content ​Systems, Cross-​Functional ​Collaboration, Developer ​Documentation, Enterprise ​UX, Generative ​AI, Governance, Information ​Architecture, Mentoring, NLP, Onboarding ​Development, Policy ​Development, Process ​Automation, Project ​Management, Release ​Documentation, Strategic ​Planning, UX ​Writing 
 
 skills:
     title: Skills &amp; Proficiency
@@ -191,7 +191,7 @@ skills:
       - name: C++
         level: 35%  
 
-    summary: Additional Tools - ClickHelp, Docker, Figma, JavaScript, JSON, OpenAPI, Redocly, Regex, SQL, Sublime Text, VSCode, Zapier, Whatever you've got!    
+    summary: Additional Tools - Claude ​Code, ClickHelp, Cline, Confluence, CSS, Doc360, Docker, Figma, Git, HTML, JavaScript, JIRA, JSON, Linux ​CLI, Markdown, OpenAPI, Python, Redocly, Regex, SQL, Sublime ​Text, VSCode, Zapier. Whatever you've got!   
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
