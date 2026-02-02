@@ -44,7 +44,7 @@ sidebar:
 career-profile:
     title: Summary Statement
     summary: |
-      More than 10 years of expertise leading content strategies for cloud-based database and SaaS products. Takes complex technical concepts into user-friendly content that drives product adoption and user satisfaction. Fosters collaboration with engineering, design, and product teams, ensuring high-quality, strategically-aligned documentation.
+      Technical Writer with more than 10+ years of experience translating complex AdTech, SaaS, and data-platform concepts into clear, user-centered content. Specializes in content design, UX writing, and documentation systems for enterprise and developer-facing products. Proven partner to product, design, and engineering teams, using analytics and user feedback to shape scalable content frameworks and improve product usability.
 
 education:
     title: Education
@@ -59,14 +59,26 @@ education:
 experiences:
     title: Work Experience
     info:
+
+      - role: Manager, Technical Writing & Documentation
+        time: October 2024 - Present
+        company: Samsung Ads, Mountain View, CA
+        details: |
+          
+            - Designed scalable content frameworks and writing standards that improved clarity, consistency, and usability of Ads platform documentation across technical and non-technical audiences, including GenAI-assisted content workflows.
+            - Partnered with product, engineering, UX, and support teams to design content workflows informed by support tickets and user feedback, improving issue visibility and enabling more targeted content and UX improvements.
+            - Applied analytics and usage data to evaluate documentation effectiveness, identify high-impact content gaps, and iteratively improve content structure, taxonomy, and user experience.
+            - Designing a generative AI–assisted content framework to improve discoverability, consistency, and accuracy of Ads platform documentation.
+            - Building LLM-based content analysis agents that synthesize support tickets, product feedback, and usage data to surface high-impact UX and content design improvements.
+            - Designing a Retrieval-Augmented Generation (RAG) content system for internal knowledge bases, including governance, source ownership, and lifecycle standards to support reliable, user-centered knowledge retrieval.
       
       - role: Senior Technical Writer
         time: September 2019 - June 2024
         company: Treasure Data, Mountain View, CA
         details: |
           
-            - Developed content, architecture, and visualizations for UX, API, & SDK documentation for playbooks, LLMs, machine learning, workflows, and governance, with an emphasis on trust and security.
-            - Worked closely with UX, QA, BE, FE, Marketing, PMs, and Support to craft high-quality user experiences across multiple product touchpoints, influencing product decisions from kick-off to launch.
+            - Designed content models, information architecture, and UX documentation for APIs, SDKs, and data workflows supporting enterprise AdTech and ML use cases.
+            - Collaborated with UX, product, and engineering teams to design content and UX documentation across multiple product touchpoints, influencing product decisions from early discovery through launch.
             - Pioneered Treasure Data's first developer documentation portal, accelerating implementation and saving $500k annually by improving alignment time between FE and BE teams.
             - Established Jira Service Desk for Docs, reducing ticket resolution from months or weeks to fewer than 36 hours, setting standards for documentation efficiency.
             - Directed monthly release note process, increasing operational efficiency and enabling stakeholders to focus on innovation and high-value activities.
