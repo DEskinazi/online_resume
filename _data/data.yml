@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Debra Eskinazi Stockdale
-    tagline: Experienced Technical Writer
+    tagline: AI Transformation, Knowledge Strategy & Cross-Functional Operations Leader
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
         # Sidebar links
@@ -44,7 +44,7 @@ sidebar:
 career-profile:
     title: Summary Statement
     summary: |
-      Technical Writer with more than 10+ years of experience translating complex AdTech, SaaS, and data-platform concepts into clear, user-centered content. Specializes in content design, UX writing, and documentation systems for enterprise and developer-facing products. Proven partner to product, design, and engineering teams, using analytics and user feedback to shape scalable content frameworks and improve product usability.
+      Experienced AI transformation and knowledge management leader with 10+ years driving enterprise content systems, cross-functional operations, and scalable governance frameworks across SaaS, AdTech, and machine learning ecosystems. Proven success leading GenAI adoption, operationalizing AI-enabled workflows, designing documentation and knowledge infrastructures, and aligning technical, product, support, and executive stakeholders. Skilled in AI governance, process optimization, enablement strategy, and building systems that improve organizational efficiency, reduce friction, and accelerate product adoption.
 
 education:
     title: Education
@@ -65,24 +65,24 @@ experiences:
         company: Samsung Ads, Mountain View, CA
         details: |
           
-            - Designed scalable content frameworks and writing standards that improved clarity, consistency, and usability of Ads platform documentation across technical and non-technical audiences, including GenAI-assisted content workflows.
-            - Partnered with product, engineering, UX, and support teams to design content workflows informed by support tickets and user feedback, improving issue visibility and enabling more targeted content and UX improvements.
-            - Applied analytics and usage data to evaluate documentation effectiveness, identify high-impact content gaps, and iteratively improve content structure, taxonomy, and user experience.
-            - Designing a generative AI–assisted content framework to improve discoverability, consistency, and accuracy of Ads platform documentation.
-            - Building LLM-based content analysis agents that synthesize support tickets, product feedback, and usage data to surface high-impact UX and content design improvements.
-            - Designing a Retrieval-Augmented Generation (RAG) content system for internal knowledge bases, including governance, source ownership, and lifecycle standards to support reliable, user-centered knowledge retrieval.
+            - Lead enterprise knowledge and documentation operations while shaping GenAI adoption strategies, governance standards, and scalable AI productivity frameworks.
+            - Partner with executive and cross-functional stakeholders to define, approve, and operationalize commercial and internal GenAI use cases.
+            - Designed repeatable frameworks for AI-assisted content creation, workforce enablement, and documentation quality assurance.
+            - Built operational systems that improved team efficiency, stakeholder alignment, and organizational maturity across documentation and AI-related workflows.
+            - Established analytics-driven feedback loops to identify support gaps, optimize content systems, and improve business-critical knowledge delivery.
+            - Serve as strategic contributor to core AI transformation initiatives influencing enterprise-wide standards.
       
       - role: Senior Technical Writer
         time: September 2019 - June 2024
         company: Treasure Data, Mountain View, CA
         details: |
           
-            - Designed content models, information architecture, and UX documentation for APIs, SDKs, and data workflows supporting enterprise AdTech and ML use cases.
-            - Collaborated with UX, product, and engineering teams to design content and UX documentation across multiple product touchpoints, influencing product decisions from early discovery through launch.
-            - Pioneered Treasure Data's first developer documentation portal, accelerating implementation and saving $500k annually by improving alignment time between FE and BE teams.
-            - Established Jira Service Desk for Docs, reducing ticket resolution from months or weeks to fewer than 36 hours, setting standards for documentation efficiency.
-            - Directed monthly release note process, increasing operational efficiency and enabling stakeholders to focus on innovation and high-value activities.
-            - Partnered with Product Ops and Technical Program Management, enhancing operational workflows, dismantling silos, and fostering a collaborative environment.
+            - Built and scaled the company’s first developer documentation ecosystem supporting AI, machine learning, governance, API, SDK, and enterprise customer data platform initiatives.
+            - Reduced operational inefficiencies through automation, service desk innovation, and process redesign, saving significant organizational resources.
+            - Partnered across Product, Engineering, UX, Support, and Program Management to align product delivery with scalable knowledge systems.
+            - Developed governance-supporting content frameworks for security, machine learning, and enterprise workflow systems.
+            - Created onboarding and internal enablement programs that accelerated productivity and organizational scalability.
+            - Introduced KPI-driven content operations that improved documentation performance, response times, and user satisfaction.
       
       - role: Writer & Editor  
         time: January 2014 - Present
@@ -139,9 +139,12 @@ certifications:
 projects:
     title: Projects
     intro: >
-      A brief sample of the projects was the primary author or project manager. 
+      A brief sample of the projects was the project manager or primary author.
 
     assignments:
+      - title: Enterprise GenAI Governance & Adoption Program
+        tagline: "Defined standards for responsible GenAI implementation across productivity applications for Samsung Ads. Developed governance frameworks for organizational adoption, approvals, and deployment."
+     
       - title: Delegated Groups
         link: "https://docs.treasuredata.com/products/control-panel/security/users/delegated-groups"
         tagline: "This collection of documents describes how a company might leverage a regional administrator to oversee a set of users with permissions to specific policies."
