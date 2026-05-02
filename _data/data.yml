@@ -167,8 +167,17 @@ projects:
 oss:
     title: Strengths & Competencies
     intro: >
-      Advertising ​Platforms ​/​ ​AdTech, Competitive ​Intelligence, Content ​Design, Content ​Strategy, Content ​Systems, Cross-​Functional ​Collaboration, Developer ​Documentation, Enterprise ​UX, Generative ​AI, Governance, Information ​Architecture, Mentoring, NLP, Onboarding ​Development, Policy ​Development, Process ​Automation, Project ​Management, Release ​Documentation, Strategic ​Planning, UX ​Writing 
-
+    
+        - name: Responsible AI & Governance
+        tagline: "Responsible AI strategy, AI governance frameworks, model lifecycle governance, AI risk management, AI policy design and enforcement, content safety systems, AI compliance alignment, ethical AI practices."
+       
+    item: Generative AI & Content Systems
+    tagline: "Generative AI systems design, LLM applications, prompt governance, AI evaluation frameworks (quality, bias, safety), content systems architecture, information architecture, NLP applications, taxonomy design."
+    item: AI Content Design & Experience Strategy
+    tagline: "Content strategy for AI-driven products, content design for intelligent interfaces, UX writing for AI systems, enterprise UX, developer documentation for AI platforms, cross-channel content consistency."
+    item: Leadership & Cross-Functional Execution
+    tagline: "Cross-functional AI product collaboration, strategic planning, AI program delivery, stakeholder alignment (Product, Legal, Engineering), mentoring, organizational AI enablement, process automation."
+    
 skills:
     title: Skills &amp; Proficiency
 
