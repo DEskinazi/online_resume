@@ -165,6 +165,11 @@ projects:
       - title: LLM/Gen AI
         link: 
         tagline: "GenAI for predictive modeling using RAG to enhance LLMs, offering efficient process automation with personalization and feedback analysis via a virtual assistant."
+
+      - title: MagicMirror Family Dashboard
+        link: "https://github.com/DEskinazi/magicmirror-config"
+        tagline: "Designed and built a custom smart-mirror system for household operations, including an original PIN-gated chore-tracking module with allowance logic, and bug fixes/feature contributions across four open-source community modules."
+
 oss:
     title: Strengths & Competencies
     intro: >
