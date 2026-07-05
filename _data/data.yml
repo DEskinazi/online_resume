@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Debra Eskinazi Stockdale
-    tagline: AI Transformation, Knowledge Strategy & Cross-Functional Operations Leader
+    tagline: Content Governance • Knowledge Systems • AI Enablement • Content Operations • Information Architecture
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
         # Sidebar links
@@ -27,7 +27,7 @@ sidebar:
           level: Native
 
         - idiom: Spanish
-          level: Professional
+          level: Heritage Speaker - Conversational
 
     interests:
       title: Interests
@@ -44,9 +44,11 @@ sidebar:
 career-profile:
     title: Summary Statement
     summary: |
-      Documentation and knowledge systems leader with 10+ years of experience building scalable content operations, developer documentation programs, and enterprise knowledge infrastructure. Experienced in leading cross-functional initiatives spanning Product, Engineering, UX, Security, IT, and Support to improve content quality, discoverability, and organizational effectiveness. 
-      
-      Currently focused on AI enablement, governance, and knowledge strategy, including the development of responsible AI adoption frameworks, content standards, and operational processes that support scalable use of Generative AI technologies. Proven track record of building documentation programs, leading teams, driving process improvements, and delivering measurable business outcomes in complex SaaS and AdTech environments.
+      Knowledge Systems and Content Governance leader with 12+ years of experience designing scalable operating models for enterprise knowledge, content operations, and AI-enabled workflows. I specialize in building governance frameworks, cross-functional processes, and information architectures that improve how organizations create, manage, and trust knowledge.
+
+My work spans content governance, knowledge management, documentation strategy, and responsible AI adoption across enterprise SaaS and AdTech organizations. I partner with Product, Engineering, Design, Security, and business teams to design systems that improve content quality, operational efficiency, and organizational alignment.
+
+I focus on identifying operational friction and building scalable systems that move organizations from ad hoc content creation to structured, governed, and AI-augmented knowledge ecosystems.      
 
 education:
     title: Education
@@ -67,11 +69,14 @@ experiences:
         company: Samsung Ads, Mountain View, CA
         details: |
           
-            - Lead knowledge systems and documentation strategy for Samsung Ads, improving content discoverability, usability, and self-service experiences across internal and external audiences.
-            - Partner across Product, Engineering, Security, IT, and executive stakeholders to support enterprise Generative AI adoption, governance, and responsible usage initiatives.
-            - Establish governance frameworks, contribution models, and operational standards that improve content quality, consistency, and scalability.
-            - Drive documentation operations through analytics, feedback loops, and content lifecycle management to reduce knowledge gaps and prioritize high-impact improvements.
-            - Manage and mentor technical writers through hiring, coaching, performance management, and career development while building the foundation for a growing documentation organization.
+	    - Designed enterprise knowledge governance frameworks and scalable content operating models that standardized ownership, intake, publication readiness, lifecycle management, and cross-functional collaboration. 
+	    - Identified organizational process gaps and architected operational solutions that expanded documentation services from supporting two engineering teams to a governance model designed for phased adoption across eight business organizations. 
+	    - Led strategic initiatives with Product, Engineering, Design, Security, IT, and business stakeholders to establish governance standards, documentation processes, and scalable knowledge management practices. 
+	    - Architected responsible GenAI governance frameworks, review processes, and AI-assisted workflows that prepared the organization for secure, scalable enterprise AI adoption. 
+	    - Redesigned documentation operations by embedding governance into Jira workflows and product development processes, reducing dependence on manual project initiation and increasing documentation participation earlier in the product lifecycle. 
+	    - Championed adoption of standardized Product Requirements Documents (PRDs) and expanded documentation engagement into UX design and microcopy reviews, strengthening launch readiness and cross-functional alignment. 
+	    - Built analytics and continuous improvement practices to identify knowledge gaps, prioritize documentation investments, and improve business-critical content delivery. 
+	    - Led and developed a technical writing team through hiring, mentoring, coaching, and operational excellence initiatives that improved consistency, quality, and organizational impact.      
       
       - role: Senior Technical Writer
         time: September 2019 - June 2024
@@ -212,7 +217,7 @@ skills:
       - name: C++
         level: 35%  
 
-    summary: Additional Tools - Airtable, Amazon Bedrock, Claude ​Code, ClickHelp, Cline, Confluence, CSS, Doc360, Docker, Figma, Git, HTML, JavaScript, JIRA, JSON, Linux ​CLI, Markdown, OpenAPI, Python, Redocly, Regex, SQL, Sublime ​Text, VSCode, Zapier. Whatever you've got!   
+    summary: Additional Tools - Airtable, Amazon Bedrock, Claude​Code, ClickHelp, Cline, Confluence, CSS, Doc360, Docker, Figma, Git, HTML, JavaScript, JIRA, JSON, Linux ​LI, Markdown, OpenAPI, Python, Redocly, Regex, SQL, Sublime ​Text, VSCode, Zapier. Whatever you've got!   
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
