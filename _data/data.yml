@@ -46,9 +46,9 @@ career-profile:
     summary: |
       Knowledge Systems and Content Governance leader with 12+ years of experience designing scalable operating models for enterprise knowledge, content operations, and AI-enabled workflows. I specialize in building governance frameworks, cross-functional processes, and information architectures that improve how organizations create, manage, and trust knowledge.
 
-My work spans content governance, knowledge management, documentation strategy, and responsible AI adoption across enterprise SaaS and AdTech organizations. I partner with Product, Engineering, Design, Security, and business teams to design systems that improve content quality, operational efficiency, and organizational alignment.
+      My work spans content governance, knowledge management, documentation strategy, and responsible AI adoption across enterprise SaaS and AdTech organizations. I partner with Product, Engineering, Design, Security, and business teams to design systems that improve content quality, operational efficiency, and organizational alignment.
 
-I focus on identifying operational friction and building scalable systems that move organizations from ad hoc content creation to structured, governed, and AI-augmented knowledge ecosystems.      
+      I focus on identifying operational friction and building scalable systems that move organizations from ad hoc content creation to structured, governed, and AI-augmented knowledge ecosystems.
 
 education:
     title: Education
@@ -64,19 +64,19 @@ experiences:
     title: Work Experience
     info:
 
-      - role: Manager, AI Enablement & Knowledge Systems (Official title: Manager, Technical Writing & Documentation)
+      - role: "Manager, AI Enablement & Knowledge Systems (Official title: Manager, Technical Writing & Documentation)"
         time: October 2024 - Present
         company: Samsung Ads, Mountain View, CA
         details: |
           
-	    - Designed enterprise knowledge governance frameworks and scalable content operating models that standardized ownership, intake, publication readiness, lifecycle management, and cross-functional collaboration. 
-	    - Identified organizational process gaps and architected operational solutions that expanded documentation services from supporting two engineering teams to a governance model designed for phased adoption across eight business organizations. 
-	    - Led strategic initiatives with Product, Engineering, Design, Security, IT, and business stakeholders to establish governance standards, documentation processes, and scalable knowledge management practices. 
-	    - Architected responsible GenAI governance frameworks, review processes, and AI-assisted workflows that prepared the organization for secure, scalable enterprise AI adoption. 
-	    - Redesigned documentation operations by embedding governance into Jira workflows and product development processes, reducing dependence on manual project initiation and increasing documentation participation earlier in the product lifecycle. 
-	    - Championed adoption of standardized Product Requirements Documents (PRDs) and expanded documentation engagement into UX design and microcopy reviews, strengthening launch readiness and cross-functional alignment. 
-	    - Built analytics and continuous improvement practices to identify knowledge gaps, prioritize documentation investments, and improve business-critical content delivery. 
-	    - Led and developed a technical writing team through hiring, mentoring, coaching, and operational excellence initiatives that improved consistency, quality, and organizational impact.      
+            - Designed enterprise knowledge governance frameworks and scalable content operating models that standardized ownership, intake, publication readiness, lifecycle management, and cross-functional collaboration. 
+            - Identified organizational process gaps and architected operational solutions that expanded documentation services from supporting two engineering teams to a governance model designed for phased adoption across eight business organizations. 
+            - Led strategic initiatives with Product, Engineering, Design, Security, IT, and business stakeholders to establish governance standards, documentation processes, and scalable knowledge management practices. 
+            - Architected responsible GenAI governance frameworks, review processes, and AI-assisted workflows that prepared the organization for secure, scalable enterprise AI adoption. 
+            - Redesigned documentation operations by embedding governance into Jira workflows and product development processes, reducing dependence on manual project initiation and increasing documentation participation earlier in the product lifecycle. 
+            - Championed adoption of standardized Product Requirements Documents (PRDs) and expanded documentation engagement into UX design and microcopy reviews, strengthening launch readiness and cross-functional alignment. 
+            - Built analytics and continuous improvement practices to identify knowledge gaps, prioritize documentation investments, and improve business-critical content delivery. 
+            - Led and developed a technical writing team through hiring, mentoring, coaching, and operational excellence initiatives that improved consistency, quality, and organizational impact.      
       
       - role: Senior Technical Writer
         time: September 2019 - June 2024
@@ -187,10 +187,10 @@ oss:
         tagline: "Cross-functional operating model design, governance framework development, process architecture, workflow design, program management, organizational scaling, stakeholder alignment models, operational KPI design, continuous improvement systems."
     
       - title: AI-Enabled Knowledge & Content Systems
-	tagline: "AI-enabled content workflows, generative AI integration in knowledge systems, AI-assisted content operations, prompt governance (system-level), AI evaluation frameworks (quality, consistency), responsible AI enablement within content workflows."    
+        tagline: "AI-enabled content workflows, generative AI integration in knowledge systems, AI-assisted content operations, prompt governance (system-level), AI evaluation frameworks (quality, consistency), responsible AI enablement within content workflows."    
       
       - title: Cross-Functional Leadership & Execution
-	taglne: "Enterprise stakeholder management, Product/Engineering/Design/Support collaboration, executive alignment, change management, organizational enablement, team leadership and mentoring, adoption of new operating models."
+        tagline: "Enterprise stakeholder management, Product/Engineering/Design/Support collaboration, executive alignment, change management, organizational enablement, team leadership and mentoring, adoption of new operating models."
     
 skills:
     title: Skills &amp; Proficiency
