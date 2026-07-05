@@ -69,14 +69,14 @@ experiences:
         company: Samsung Ads, Mountain View, CA
         details: |
           
-            - Design enterprise knowledge governance frameworks and scalable content operating models that standardize ownership, intake, publication readiness, lifecycle management, and cross-functional collaboration.
-            - Identify organizational process gaps and architect operational solutions that expand documentation services from supporting two engineering teams to a governance model designed for phased adoption across eight business organizations.
-            - Lead strategic initiatives with Product, Engineering, Design, Security, IT, and business stakeholders to establish governance standards, documentation processes, and scalable knowledge management practices.
-            - Architect responsible GenAI governance frameworks, review processes, and AI-assisted workflows that prepare the organization for secure, scalable enterprise AI adoption.
-            - Redesign documentation operations by embedding governance into Jira workflows and product development processes, reducing dependence on manual project initiation and increasing documentation participation earlier in the product lifecycle.
-            - Champion adoption of standardized Product Requirements Documents (PRDs) and expand documentation engagement into UX design and microcopy reviews, strengthening launch readiness and cross-functional alignment.
-            - Build analytics and continuous improvement practices to identify knowledge gaps, prioritize documentation investments, and improve business-critical content delivery.
-            - Lead and develop a technical writing team through hiring, mentoring, coaching, and operational excellence initiatives that improve consistency, quality, and organizational impact.      
+            - Design enterprise knowledge governance frameworks and scalable content operating models that standardize ownership, intake, publication readiness, lifecycle management, and cross-functional collaboration across enterprise documentation systems.
+            - Identify organizational process gaps and architect operational improvements that expand documentation support from two engineering teams to a governance model designed for phased adoption across eight business organizations.
+            - Lead strategic initiatives with Product, Engineering, Design, Security, IT, and business stakeholders to align governance standards, documentation processes, and scalable knowledge management practices across product delivery workflows.
+            - Design a content governance framework for RAG-based knowledge ingestion across business teams, defining classification rules (include, archive, merge, update), lifecycle standards, and quality gates aligned to company style guide and functional templates to ensure structured knowledge readiness for AI-enabled systems.
+            - Redesign documentation operations by embedding governance checkpoints into Jira workflows and product development processes, reducing reliance on manual coordination and increasing documentation participation earlier in the product lifecycle.
+            - Champion adoption of standardized Product Requirements Documents (PRDs) and expand documentation engagement into UX design and microcopy reviews to strengthen launch readiness and cross-functional alignment.
+            - Build feedback loops and lightweight analytics practices to identify knowledge gaps, prioritize documentation investments, and improve business-critical content delivery.
+            - Lead and develop a technical writing team through hiring, mentoring, coaching, and operational leadership that improves consistency, quality, and delivery effectiveness.      
       
       - role: Senior Technical Writer
         time: September 2019 - June 2024
@@ -149,7 +149,7 @@ projects:
 
     assignments:
       - title: Enterprise GenAI Governance & Adoption Program
-        tagline: "Defined standards for responsible GenAI implementation across productivity applications for Samsung Ads. Developed governance frameworks for organizational adoption, approvals, and deployment."
+        tagline: "Served on a cross-functional core team supporting early enterprise GenAI adoption for internal productivity use cases within Samsung Ads, collaborating with Product, Engineering, Security, IT, and business stakeholders on governance and implementation considerations."
      
       - title: Delegated Groups
         link: "https://docs.treasuredata.com/products/control-panel/security/users/delegated-groups"
