@@ -54,7 +54,7 @@ education:
     title: Education
     info:
       - degree: BA in Political Science
-        university: California State University, San Jose
+        university: San Jose State University
         time: 
         details: |
           
@@ -73,11 +73,12 @@ experiences:
 
             - Design enterprise knowledge governance frameworks and scalable content operating models that standardize ownership, intake, publication readiness, lifecycle management, and cross-functional collaboration across enterprise documentation systems.
             - Identify organizational process gaps and architect operational improvements that expand end-user documentation support from 2 to 8 product solutions over approximately 6-8 months.
+            - Establish governance operating model with structured intake workflows, content readiness criteria, and informal service-level expectations for documentation delivery across expanding cross-functional teams (2 to 8 product solutions).
             - Lead strategic initiatives with Product, Engineering, Design, Security, IT, and business stakeholders to align governance standards, documentation processes, and scalable knowledge management practices across product delivery workflows.
             - Design a content governance framework for RAG-based knowledge ingestion across business teams, defining classification rules (include, archive, merge, update), lifecycle standards, and quality gates aligned to company style guide and functional templates to ensure structured knowledge readiness for AI-enabled systems.
             - Redesign documentation operations by embedding governance checkpoints into Jira workflows and product development processes, reducing reliance on manual coordination and increasing documentation participation earlier in the product lifecycle.
             - Champion adoption of standardized Product Requirements Documents (PRDs) and expand documentation engagement into UX design and microcopy reviews to strengthen launch readiness and cross-functional alignment.
-            - Build feedback loops and lightweight analytics practices to identify knowledge gaps, prioritize documentation investments, and improve business-critical content delivery.
+            - Define and report on quarterly OKRs for documentation and knowledge governance delivery, driving continuous improvement across cross-functional teams within a complex, siloed organizational structure.
             - Lead and develop a technical writing team through hiring, mentoring, coaching, and operational leadership that improves consistency, quality, and delivery effectiveness.      
       
       - role: Senior Technical Writer
