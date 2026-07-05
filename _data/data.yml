@@ -64,13 +64,15 @@ experiences:
     title: Work Experience
     info:
 
-      - role: "Manager, AI Enablement & Knowledge Systems (Official title: Manager, Technical Writing & Documentation)"
+      - role: "Manager, Technical Writing & Documentation"
         time: October 2024 - Present
         company: Samsung Ads, Mountain View, CA
         details: |
-          
+
+            *Leads knowledge governance and content systems supporting Samsung Ads' AI enablement initiatives.*
+
             - Design enterprise knowledge governance frameworks and scalable content operating models that standardize ownership, intake, publication readiness, lifecycle management, and cross-functional collaboration across enterprise documentation systems.
-            - Identify organizational process gaps and architect operational improvements that expand documentation support from two engineering teams to a governance model designed for phased adoption across eight business organizations.
+            - Identify organizational process gaps and architect operational improvements that expand end-user documentation support from 2 to 8 product solutions over approximately 6-8 months.
             - Lead strategic initiatives with Product, Engineering, Design, Security, IT, and business stakeholders to align governance standards, documentation processes, and scalable knowledge management practices across product delivery workflows.
             - Design a content governance framework for RAG-based knowledge ingestion across business teams, defining classification rules (include, archive, merge, update), lifecycle standards, and quality gates aligned to company style guide and functional templates to ensure structured knowledge readiness for AI-enabled systems.
             - Redesign documentation operations by embedding governance checkpoints into Jira workflows and product development processes, reducing reliance on manual coordination and increasing documentation participation earlier in the product lifecycle.
