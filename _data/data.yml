@@ -69,14 +69,14 @@ experiences:
         company: Samsung Ads, Mountain View, CA
         details: |
           
-            - Designed enterprise knowledge governance frameworks and scalable content operating models that standardized ownership, intake, publication readiness, lifecycle management, and cross-functional collaboration. 
-            - Identified organizational process gaps and architected operational solutions that expanded documentation services from supporting two engineering teams to a governance model designed for phased adoption across eight business organizations. 
-            - Led strategic initiatives with Product, Engineering, Design, Security, IT, and business stakeholders to establish governance standards, documentation processes, and scalable knowledge management practices. 
-            - Architected responsible GenAI governance frameworks, review processes, and AI-assisted workflows that prepared the organization for secure, scalable enterprise AI adoption. 
-            - Redesigned documentation operations by embedding governance into Jira workflows and product development processes, reducing dependence on manual project initiation and increasing documentation participation earlier in the product lifecycle. 
-            - Championed adoption of standardized Product Requirements Documents (PRDs) and expanded documentation engagement into UX design and microcopy reviews, strengthening launch readiness and cross-functional alignment. 
-            - Built analytics and continuous improvement practices to identify knowledge gaps, prioritize documentation investments, and improve business-critical content delivery. 
-            - Led and developed a technical writing team through hiring, mentoring, coaching, and operational excellence initiatives that improved consistency, quality, and organizational impact.      
+            - Design enterprise knowledge governance frameworks and scalable content operating models that standardize ownership, intake, publication readiness, lifecycle management, and cross-functional collaboration.
+            - Identify organizational process gaps and architect operational solutions that expand documentation services from supporting two engineering teams to a governance model designed for phased adoption across eight business organizations.
+            - Lead strategic initiatives with Product, Engineering, Design, Security, IT, and business stakeholders to establish governance standards, documentation processes, and scalable knowledge management practices.
+            - Architect responsible GenAI governance frameworks, review processes, and AI-assisted workflows that prepare the organization for secure, scalable enterprise AI adoption.
+            - Redesign documentation operations by embedding governance into Jira workflows and product development processes, reducing dependence on manual project initiation and increasing documentation participation earlier in the product lifecycle.
+            - Champion adoption of standardized Product Requirements Documents (PRDs) and expand documentation engagement into UX design and microcopy reviews, strengthening launch readiness and cross-functional alignment.
+            - Build analytics and continuous improvement practices to identify knowledge gaps, prioritize documentation investments, and improve business-critical content delivery.
+            - Lead and develop a technical writing team through hiring, mentoring, coaching, and operational excellence initiatives that improve consistency, quality, and organizational impact.      
       
       - role: Senior Technical Writer
         time: September 2019 - June 2024
@@ -166,10 +166,6 @@ projects:
       - title: Journey Orchestration
         link: "https://api-docs.treasuredata.com/en/api/audience-api/tdjourneyorchestrationrestapi"
         tagline: "This document enables users to follow and manage a customer journey, including creating and editing key decision points."
-
-      - title: LLM/Gen AI
-        link: 
-        tagline: "GenAI for predictive modeling using RAG to enhance LLMs, offering efficient process automation with personalization and feedback analysis via a virtual assistant."
 
       - title: MagicMirror Family Dashboard
         link: "https://github.com/DEskinazi/magicmirror-config"
