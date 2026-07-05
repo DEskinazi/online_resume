@@ -180,17 +180,17 @@ oss:
     intro: >
     
     contributions: 
-      - title: Responsible AI & Governance
-        tagline: "Responsible AI strategy, AI governance frameworks, model lifecycle governance, AI risk management, AI policy design and enforcement, content safety systems, AI compliance alignment, ethical AI practices."
+      - title: Content Governance & Knowledge Systems
+        tagline: "Content governance frameworks, knowledge management systems, content lifecycle management, information architecture, taxonomy and metadata design, content ownership models, publication workflows, content quality systems, knowledge operations, enterprise content strategy."
        
-      - title: Generative AI & Content Systems
-        tagline: "Generative AI systems design, LLM applications, prompt governance, AI evaluation frameworks (quality, bias, safety), content systems architecture, information architecture, NLP applications, taxonomy design."
+      - title: Operating Model & Program Design
+        tagline: "Cross-functional operating model design, governance framework development, process architecture, workflow design, program management, organizational scaling, stakeholder alignment models, operational KPI design, continuous improvement systems."
     
-      - title: AI Content Design & Experience Strategy
-        tagline: "Content strategy for AI-driven products, content design for intelligent interfaces, UX writing for AI systems, enterprise UX, developer documentation for AI platforms, cross-channel content consistency."
-    
-      - title: Leadership & Cross-Functional Execution
-        tagline: "Cross-functional AI product collaboration, strategic planning, AI program delivery, stakeholder alignment (Product, Legal, Engineering), mentoring, organizational AI enablement, process automation."
+      - title: AI-Enabled Knowledge & Content Systems
+	tagline: "AI-enabled content workflows, generative AI integration in knowledge systems, AI-assisted content operations, prompt governance (system-level), AI evaluation frameworks (quality, consistency), responsible AI enablement within content workflows."    
+      
+      - title: Cross-Functional Leadership & Execution
+	taglne: "Enterprise stakeholder management, Product/Engineering/Design/Support collaboration, executive alignment, change management, organizational enablement, team leadership and mentoring, adoption of new operating models."
     
 skills:
     title: Skills &amp; Proficiency
