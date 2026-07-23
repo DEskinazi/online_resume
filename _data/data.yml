@@ -38,7 +38,7 @@ sidebar:
         - item: Gardening
           link:
 
-        - item: Reading
+        - item: Learning
           link:
 
 career-profile:
@@ -69,17 +69,17 @@ experiences:
         company: Samsung Ads, Mountain View, CA
         details: |
 
-            *Leads knowledge governance and content systems supporting Samsung Ads' AI enablement initiatives.*
+            *Leads a technical writing team and designs knowledge governance systems for Samsung Ads' documentation organization.*
 
-            - Design enterprise knowledge governance frameworks and scalable content operating models that standardize ownership, intake, publication readiness, lifecycle management, and cross-functional collaboration across enterprise documentation systems.
-            - Identify organizational process gaps and architect operational improvements that expand end-user documentation support from 2 to 8 product solutions over approximately 6-8 months.
-            - Establish governance operating model with structured intake workflows, content readiness criteria, and informal service-level expectations for documentation delivery across expanding cross-functional teams (2 to 8 product solutions).
-            - Lead strategic initiatives with Product, Engineering, Design, Security, IT, and business stakeholders to align governance standards, documentation processes, and scalable knowledge management practices across product delivery workflows.
-            - Design a content governance framework for RAG-based knowledge ingestion across business teams, defining classification rules (include, archive, merge, update), lifecycle standards, and quality gates aligned to company style guide and functional templates to ensure structured knowledge readiness for AI-enabled systems.
+            - Design enterprise knowledge governance frameworks and content operating models that standardize ownership, intake, publication readiness, and lifecycle management across documentation systems.
+            - Identified organizational process gaps and expanded end-user documentation support from 2 to 8 product solutions over approximately 6-8 months (2025).
+            - Partner with Product, Engineering, Design, Security, and IT stakeholders to align documentation processes with product delivery workflows.
+            - Design a content governance framework for RAG-based knowledge ingestion across business teams: classification rules, lifecycle standards, and quality gates aligned to company style guide and templates. Framework designed and handed off for team rollout.
             - Redesign documentation operations by embedding governance checkpoints into Jira workflows and product development processes, reducing reliance on manual coordination and increasing documentation participation earlier in the product lifecycle.
-            - Champion adoption of standardized Product Requirements Documents (PRDs) and expand documentation engagement into UX design and microcopy reviews to strengthen launch readiness and cross-functional alignment.
-            - Define and report on quarterly OKRs for documentation and knowledge governance delivery, driving continuous improvement across cross-functional teams within a complex, siloed organizational structure.
-            - Lead and develop a technical writing team through hiring, mentoring, coaching, and operational leadership that improves consistency, quality, and delivery effectiveness.      
+            - Reduced stale content by 22% across a 64,000+ page Confluence footprint.
+            - Champion adoption of standardized Product Requirements Documents (PRDs) and expand documentation engagement into UX design and microcopy reviews.
+            - Define and report on quarterly OKRs for documentation and knowledge governance delivery within a complex, siloed organizational structure.
+            - Manage two technical writers through hiring, mentoring, coaching, and performance management.
       
       - role: Senior Technical Writer
         time: September 2019 - June 2024
@@ -88,7 +88,7 @@ experiences:
           
             - Built and scaled the company’s first developer documentation ecosystem supporting AI, machine learning, governance, API, SDK, and enterprise customer data platform initiatives.
             - Launched a developer documentation portal that reduced engineering support time and time spent reconciling API contracts between frontend and backend teams, saving an estimated $500K annually.
-            - Built a Jira Service Desk for documentation support — critical for coordinating a globally distributed support team — cutting content-update turnaround from weeks to under 36 hours.
+            - Built a Jira Service Desk for documentation support, critical for coordinating a globally distributed support team, cutting content-update turnaround from weeks to under 36 hours.
             - Partnered across Product, Engineering, UX, Support, and Program Management to align product delivery with scalable knowledge systems.
             - Developed governance-supporting content frameworks for security, machine learning, and enterprise workflow systems.
             - Created onboarding and internal enablement programs that accelerated productivity and organizational scalability.
